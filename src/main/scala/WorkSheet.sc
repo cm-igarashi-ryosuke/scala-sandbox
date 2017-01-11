@@ -1,3 +1,5 @@
+import scala.collection.immutable.List
+
 val num = if (true)
   100
 else
